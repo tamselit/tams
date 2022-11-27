@@ -1,7 +1,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tamselit&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tamselit&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamselit&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=tamselit&icon=2&color=6)](https://visitcount.itsvg.in)
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tams.aspx) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/itsmetamtam29) 
